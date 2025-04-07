@@ -23,7 +23,7 @@ A production-ready API for recognizing handwritten digits (0-9) using a Convolut
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/handwritten-digit-recognition.git
+git clone https://github.com/Abdullah-7799/handwritten-digit-recognition.git
 cd handwritten-digit-recognition
 
 # Install dependencies
